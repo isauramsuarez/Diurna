@@ -1,5 +1,5 @@
 #TALLER 6 PYTHON
-# AUTORA: GRACIELA ARIAS V
+# AUTORA: Isaura Suarez
 # FECHA:
 
 from datetime import date
